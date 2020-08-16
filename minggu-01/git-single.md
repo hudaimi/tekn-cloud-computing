@@ -1,4 +1,4 @@
-#Instalasi Git(Windows)
+# Instalasi Git(Windows)
 
 Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didukung oleh Windws. Editor yang bisa dipilih banyak, tetapi disarankan menggunakan Notepad++ atau Visual Studion Code atau Vim. Keberadaan editor teks ini akan menentukan keberhasilan Instalasi
 
@@ -35,7 +35,7 @@ atau dengan mengetikan perintah "git version" di command prompt
 
 2. Setelah proses pengetikan perintah tersebut selesai, kita bisa mengeceknya dengan melihat konfigurasi yang ada dengan perintah git config --list
 
-![konfigurasi](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/konfigurasi/2.png)
+![konfigurasi](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/Konfigurasi/2.png)
 
 
 ### Kemudian hal yang dilakukan selanjutnya yaitu tentang cara memanipulasi file .md atau file markdown 
