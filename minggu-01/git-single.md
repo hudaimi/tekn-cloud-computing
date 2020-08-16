@@ -10,6 +10,7 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 ![1](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/1.png)
 
 2. Lakukan langkah - langkah seperti pada gambar di bawah :
+
 ![2](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/2.png)
 ![3](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/3.png)
 ![4](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/4.png)
