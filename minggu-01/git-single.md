@@ -23,10 +23,12 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 ![11](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/11.png)
 
 3. Setelah proses Instalasi selesai, kita bisa mengeceknya melalui :
+
 ![12](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/12.png)
 ![13](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/13.png)
 
 atau dengan mengetikan perintah "git version" di command prompt
+
 ![14](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Instalasi/14.png)
 
 
