@@ -2,8 +2,6 @@
 
 ## Teknologi Virtualisasi dan Container - Docker
 
-Sebelum memulai menggunakan Docker, kita harus mengenal terlebih dahulu tentang apa itu docker.
-
 Docker adalah platform perangkat lunak yang memungkinkan Anda membuat, menguji, dan menerapkan aplikasi dengan cepat. Docker mengemas perangkat lunak ke dalam unit standar yang disebut kontainer yang memiliki semua yang diperlukan perangkat lunak agar dapat berfungsi termasuk pustaka, alat sistem, kode, dan waktu proses. Dengan menggunakan Docker, Anda dapat dengan cepat menerapkan dan menskalakan aplikasi ke lingkungan apa pun dan yakin bahwa kode Anda akan berjalan.
 
 Disini saya menggunakan Docker Toolbox untuk menjalankan Docker pada OS Windows
