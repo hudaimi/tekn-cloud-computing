@@ -1,6 +1,6 @@
 # Cloud Computing
 
-![cloud computing](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Gambar 1.png)
+![cloud computing](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-01/Gambar1.png)
 
 Cloud Computing dalam bahasa Indonesia diterjemahkan menjadi Komputasi Awan. ‘Komputasi’ diterjemahkan sebagai gabungan pemanfaatan teknologi komputer, sedangkan ‘Awan’ merupakan metafora dari pengembangan infrastruktur berbasis internet.
 
