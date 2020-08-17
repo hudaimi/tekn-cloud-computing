@@ -1,7 +1,7 @@
 # Software as a Service
 ## Perbedaan antara IaaS, PaaS, dan SaaS
 
-![1](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-02/1.png)
+![1](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-02/Image/1.png)
 
 Terdapat 3 model layanan bisnis berbasis cloud, yaitu: SaaS (seperti MTARGET), PaaS, dan Iaas. Dalam artikel ini kami akan membahas apa saja perbedaan diantara ketiganya.
 
@@ -19,7 +19,7 @@ Contoh IaaS : DigitalOcean, Linode, Rackspace, Amazon Web Services (AWS), Cisco 
 
 ## Arsitektur Platform SaaS
 
-![1](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-02/2.png)
+![1](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-02/Image/2.png)
 
 Dengan menggunakan model tersebut, arsitektur pada SaaS ini memungkinkan layanan untuk dapat digunakan oleh banyak pengguna dan dari berbagai jenis device seperti pada gambar diatas (App Server, Mobiles, Networks, PC, Codes, dan Database), dikarenakan aplikasi ini diinstall pada banyak mesin untuk mendukung skalabilitas.
 
