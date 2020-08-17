@@ -2,4 +2,4 @@
 
 Berikut merupakan link untuk menuju ke file :
 
-1. Latihan -> [latihan](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-13/kubertenes-basics.md)
+1. Latihan -> [latihan](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-13/kubernetes-basics.md)
