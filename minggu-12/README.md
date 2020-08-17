@@ -1,1 +1,5 @@
-Praktikum Teknologi Cloud Computing - 175410083 HUDAIMI 
+# Pertemuan ke-12      Praktikum Teknologi Cloud
+
+Berikut merupakan link untuk menuju ke file :
+
+1. Latihan -> [latihan](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-12/latihan.md)
