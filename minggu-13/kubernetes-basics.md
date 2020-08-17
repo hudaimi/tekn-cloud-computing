@@ -1,6 +1,6 @@
 # Pertemuan ke-13 Praktikum Teknologi Cloud
 
-## Kubertenes Basics
+## Kubernetes Basics
 ![~](https://github.com/hudaimi/tekn-cloud-computing/blob/master/minggu-13/Image/1.png)
 
 Kubernetes adalah platform open-source portabel, dapat diperluas, untuk mengelola beban kerja dan layanan dalam container, yang memfasilitasi konfigurasi dan otomatisasi deklaratif. Ini memiliki ekosistem yang besar dan berkembang pesat. Layanan, dukungan, dan alat Kubernetes tersedia secara luas.
